@@ -21,7 +21,7 @@ npm i
 npm run dev
 ```
 
-##Techstack
+## Techstack
 
 * [TypeScript](https://www.typescriptlang.org/)
 * [React](https://react.dev/) - frontend framework
